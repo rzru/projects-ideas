@@ -2,9 +2,10 @@
 
 ## Rust
 
-- pokedex with https://github.com/fdehau/tui-rs
+- ~pokedex with https://github.com/fdehau/tui-rs~ - https://github.com/rzru/pokerust-tui done and continuing developing
 - small ws chat application in terminal (p2p ?)
 - bevy ecs rougelike game 
+- something for nds/gba
 
 ## JS
 
