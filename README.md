@@ -6,7 +6,8 @@
 - small ws chat application in terminal (p2p ?)
 - bevy ecs rougelike game 
 - something for nds/gba
-- tile renderer
+- maps tile renderer
+- file dups delete util
 
 ## JS
 
