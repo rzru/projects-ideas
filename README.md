@@ -7,7 +7,7 @@
 - bevy ecs rougelike game 
 - something for nds/gba
 - maps tile renderer
-- file dups delete util
+- ~file dups delete util~ - https://github.com/rzru/deduper done and continuing developing
 
 ## JS
 
