@@ -11,7 +11,7 @@
 
 ## JS
 
-- own landing website w/ svelte
-- js animations crush course
-- css animations crush course 
+- ~own landing website w/ svelte~ - https://github.com/rzru/rzru.github.io
+- ~js animations crush course~
+- ~css animations crush course~
 - svelte + rust small web tg clone
